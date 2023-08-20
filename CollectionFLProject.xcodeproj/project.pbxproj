@@ -13,6 +13,7 @@
 		AC0EE3132A920A8B00197D9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC0EE3112A920A8B00197D9B /* Main.storyboard */; };
 		AC0EE3152A920A8C00197D9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC0EE3142A920A8C00197D9B /* Assets.xcassets */; };
 		AC0EE3182A920A8C00197D9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC0EE3162A920A8C00197D9B /* LaunchScreen.storyboard */; };
+		AC0EE3202A920B1900197D9B /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0EE31F2A920B1900197D9B /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC0EE3142A920A8C00197D9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC0EE3172A920A8C00197D9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC0EE3192A920A8C00197D9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC0EE31F2A920B1900197D9B /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AC0EE30B2A920A8B00197D9B /* AppDelegate.swift */,
 				AC0EE30D2A920A8B00197D9B /* SceneDelegate.swift */,
 				AC0EE30F2A920A8B00197D9B /* ViewController.swift */,
+				AC0EE31F2A920B1900197D9B /* MyCollectionViewCell.swift */,
 				AC0EE3112A920A8B00197D9B /* Main.storyboard */,
 				AC0EE3142A920A8C00197D9B /* Assets.xcassets */,
 				AC0EE3162A920A8C00197D9B /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AC0EE3102A920A8B00197D9B /* ViewController.swift in Sources */,
 				AC0EE30C2A920A8B00197D9B /* AppDelegate.swift in Sources */,
+				AC0EE3202A920B1900197D9B /* MyCollectionViewCell.swift in Sources */,
 				AC0EE30E2A920A8B00197D9B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
